@@ -1,0 +1,3 @@
+matplotx==0.3.10
+matplotlib==3.9.2
+moviepy==1.0.3
