@@ -1,0 +1,2 @@
+matplotx[all]==0.3.10
+moviepy==1.0.3
